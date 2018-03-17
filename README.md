@@ -7,4 +7,5 @@ gulp --watch
 浏览器中输入：localhost:3000 ，即可访问页面
 
 # 备注
-支持es6,以及页面热加载
+支持es6,以及页面热加载。
+服务器端为express，模板是ejs
